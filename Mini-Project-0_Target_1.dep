@@ -1,0 +1,22 @@
+Dependencies for Project 'Mini-Project-0', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::..\..\..\..\..\..\Keil_v5\ARM\ARM Compiler 5.06u7
+F (.\Main.c)(0x679D4239)(--c99 -c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\RV31\INC-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\CMSIS\Include-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\INC\TI\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM-o .\main.o --depend .\main.d)
+I (C:\Keil_v5\ARM\ARM Compiler 5.06u7\include\stdio.h)(0x5E8EF392)
+I (C:\Keil_v5\ARM\ARM Compiler 5.06u7\include\stdint.h)(0x5E8EF392)
+I (PLL.h)(0x679C6C1B)
+I (UART.h)(0x679C6C1B)
+I (tm4c123gh6pm.h)(0x679C6C1B)
+F (.\PLL.c)(0x679C6C1B)(--c99 -c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\RV31\INC-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\CMSIS\Include-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\INC\TI\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM-o .\pll.o --depend .\pll.d)
+I (C:\Keil_v5\ARM\ARM Compiler 5.06u7\include\stdint.h)(0x5E8EF392)
+I (PLL.h)(0x679C6C1B)
+I (tm4c123gh6pm.h)(0x679C6C1B)
+F (.\PLL.h)(0x679C6C1B)()
+F (.\README.md)(0x679C6C1B)()
+F (.\tm4c123gh6pm.h)(0x679C6C1B)()
+F (.\UART.c)(0x679C6C1B)(--c99 -c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\RV31\INC-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\CMSIS\Include-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\INC\TI\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM-o .\uart.o --depend .\uart.d)
+I (C:\Keil_v5\ARM\ARM Compiler 5.06u7\include\stdio.h)(0x5E8EF392)
+I (C:\Keil_v5\ARM\ARM Compiler 5.06u7\include\stdint.h)(0x5E8EF392)
+I (UART.h)(0x679C6C1B)
+I (tm4c123gh6pm.h)(0x679C6C1B)
+F (.\UART.h)(0x679C6C1B)()
+F (.\startup.s)(0x679C6C1B)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\RV31\INC-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\CMSIS\Include-IC:\Users\mrvnl\AppData\Local\Keil_v5\ARM\INC\TI\TM4C123--pd "__UVISION_VERSION SETA 541"--list .\listings\startup.lst --xref -o .\startup.o --depend .\startup.d)

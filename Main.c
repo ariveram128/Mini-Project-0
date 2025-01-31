@@ -29,11 +29,12 @@
 #include <stdint.h> // C99 variable types
 #include "PLL.h"
 #include "UART.h"
+#include "tm4c123gh6pm.h"
 
 int main(void){
 	PLL_Init(Bus80MHz);         // initialize bus frequency
 	Output_Init();              // initialize output device
 	while(1){
-		printf("HelloWorld: Wahoo\n"); // Mini Projet 0: Replace "Wahoo" with your name
+		printf("HelloWorld: Marvin Rivera\n"); // Mini Projet 0: Replace "Wahoo" with your name
 	}
 }
